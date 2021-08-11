@@ -2,7 +2,7 @@ import React, { useState } from "react";
 //Animation
 import styled from "styled-components";
 import { motion } from "framer-motion";
-import logo from "../img/logo.svg";
+import logo from "../img/palace.png";
 //Redux and Routes
 import { fetchSearch } from "../actions/gamesAction";
 import { useDispatch } from "react-redux";
