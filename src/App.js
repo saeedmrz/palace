@@ -1,9 +1,9 @@
 import React from "react";
 // Components and pages
-import Home from "./pages/Home";
-import Nav from "./components/Nav";
+import Home from "./views/Home";
+import Nav from "./components/common/Nav/Nav";
 // Styles
-import Globalstyles from "./components/GlobalStyles";
+import Globalstyles from "./styles/GlobalStyles";
 // Router
 import { Route } from "react-router-dom";
 
