@@ -6,7 +6,7 @@ import { loadGames } from "store/actions/gamesAction";
 // Components
 import Game from "components/Game/Game";
 // Styling and Animation
-import { GameList, Games, Loader } from "./Home.style";
+import { GameList, Games } from "./Home.style";
 import { AnimatePresence, AnimateSharedLayout } from "framer-motion";
 import { useLocation } from "react-router-dom";
 import { fadeIn } from "styles/animations";
